@@ -46,3 +46,9 @@ reports/
 # OS
 .DS_Store
 Thumbs.db
+
+# SSH keys
+mygithub
+mygithub.pub
+*.pem
+id_*
